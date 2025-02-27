@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/budget-App.git/static/css/main.95ce40ca.css",
-    "main.js": "/budget-App.git/static/js/main.9678a741.js",
-    "static/js/453.6eac8cd9.chunk.js": "/budget-App.git/static/js/453.6eac8cd9.chunk.js",
-    "index.html": "/budget-App.git/index.html",
-    "main.95ce40ca.css.map": "/budget-App.git/static/css/main.95ce40ca.css.map",
-    "main.9678a741.js.map": "/budget-App.git/static/js/main.9678a741.js.map",
-    "453.6eac8cd9.chunk.js.map": "/budget-App.git/static/js/453.6eac8cd9.chunk.js.map"
+    "main.css": "/budget-App/static/css/main.95ce40ca.css",
+    "main.js": "/budget-App/static/js/main.9abd82bc.js",
+    "static/js/453.6eac8cd9.chunk.js": "/budget-App/static/js/453.6eac8cd9.chunk.js",
+    "index.html": "/budget-App/index.html",
+    "main.95ce40ca.css.map": "/budget-App/static/css/main.95ce40ca.css.map",
+    "main.9abd82bc.js.map": "/budget-App/static/js/main.9abd82bc.js.map",
+    "453.6eac8cd9.chunk.js.map": "/budget-App/static/js/453.6eac8cd9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95ce40ca.css",
-    "static/js/main.9678a741.js"
+    "static/js/main.9abd82bc.js"
   ]
 }
