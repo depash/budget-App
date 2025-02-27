@@ -1,0 +1,40 @@
+.addTransactionButton {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 35px;
+    height: 35px;
+    background: #fff;
+    cursor: pointer;
+    border: 2px solid #095776;
+    border-radius: 5px;
+}
+
+.addTransactionButton:after,
+.addTransactionButton:before {
+    content: '';
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background: #095776;
+
+}
+
+.addTransactionButton:after {
+    height: 4px;
+    width: 50%;
+    top: 50%;
+    left: 50%;
+}
+
+.addTransactionButton:before {
+    height: 50%;
+    width: 4px;
+    top: 50%;
+    left: 50%;
+}
+
+.addTransactionButton:hover:before,
+.addTransactionButton:hover:after {
+    background: #258ab3;
+    transition: 0.2s;
+}
