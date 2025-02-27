@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/depash/budget-App.git",
   "name": "budget-dashboard",
   "version": "0.1.0",
+  "homepage": "http://depash.github.io/budget-App.git",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
